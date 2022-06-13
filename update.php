@@ -175,7 +175,7 @@ if(isset($_POST['submit']))
         </li>
     </ul>
     <hr>
-        <p>@copyright2020 chinese cusine</p>
+        <p>@copyright2022 chinese cusine</p>
     </hr>
           </div>
       </div>
