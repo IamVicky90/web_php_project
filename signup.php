@@ -93,7 +93,7 @@
                                 <input type="text" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}" class="form-control" name="cnic" id="cnic" placeholder="xxxxx-xxxxxxx-x">
                             </div>
                             <div class="form-group">
-                                <label for="password"><b>PHONE : </b></label>
+                                <label for="password"><b>Type Passowrd : </b></label>
                                 <input type="password" class="form-control" name="password" id="password">
                             </div>
                             <div class="container"></div>
