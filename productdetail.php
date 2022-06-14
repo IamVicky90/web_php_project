@@ -121,7 +121,7 @@
                         <b>Price</b>=<b><?php echo $newres['productprice']; ?></b>
                     </p>
 
-                    <p><b><?php echo $newres['productdiscount'];      ?></b>discount for UNIVERSITY OF LAHORE STUDENTS</p>
+                    <p><b><?php echo $newres['productdiscount'];      ?></b>discount for COMSATS UNIVERSITY SAHIWAL</p>
                     <p>DISH SERVING : <?php echo $newres['productsize'];      ?> persons</p>
                     <p><a href="order.html" class="btn btn-primary">ORDER NOW</a></p>
 
